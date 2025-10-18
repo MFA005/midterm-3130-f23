@@ -8,7 +8,7 @@ const Contact = () => {
           <input className="w-1/2 p-3 bg-[#ff6b50]/50 text-black/50 rounded" placeholder="Name" />
           <input className="w-1/2 p-3 bg-[#ff6b50]/50 text-black/50 rounded" placeholder="Email" />
           <textarea className="w-1/2 p-3 bg-[#ff6b50]/50  text-black/50 rounded" rows={4} placeholder="Message" />
-          <button className="mt-4 md:mr-[500px] mr-[550px] bg-red-500 text-white px-5 py-2 rounded hover:bg-red-400 transition-all duration-150">Submit</button>
+          <button className="mt-4 md:mr-[400px] mr-[550px] bg-red-500 text-white px-5 py-2 rounded hover:bg-red-400 transition-all duration-150">Submit</button>
         </form>
       </div>
       <div className="w-full md:w-1/2  text-black/90 text-center mt-10 md:mt-0 flex flex-col justify-center">

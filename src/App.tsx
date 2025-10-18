@@ -1,5 +1,4 @@
 
-import React from "react";
 import Hero from "./components/Hero";
 import Workshops from "./components/Workshops";
 import Gallery from "./components/Gallery";

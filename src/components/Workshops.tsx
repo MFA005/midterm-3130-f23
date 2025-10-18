@@ -1,4 +1,4 @@
-import React from "react";
+
 import workshops from "../data/workshops";
 import WorkshopCard from "./WorkshopCard";
 
